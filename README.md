@@ -1,6 +1,9 @@
 # Portfolio
 
-
+👋 Hi, I’m Abdul Rehan 
+👀 I’m Full Stack Developer, 
+Tech Enthusiast Technology Stack :
+JAVA , HTML , CSS , JAVASCRIPT , TYPESCRIPT , SQL , NoSQL
 
 
 
